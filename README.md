@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my first-year projects and hackathon ideas.  <br>🤝 I’m looking to collaborate on beginner-friendly web and AI/ML projects.  <br>👐 I’m looking for help with learning full-stack development and open source.  <br>🌱 I’m currently learning Python, DSA, and web development basics.  <br>💬 Ask me about hackathon experiences, Builder.io projects, or getting started in coding.  <br>⚡ Fun fact: I love playing chess and can spend hours reading manga!  <br>
+🔭 I’m currently working on my first-year projects and hackathon ideas.  <br>🤝 I’m looking to collaborate on beginner-friendly web and AI/ML projects.  <br>👐 I’m looking for help with learning full-stack development and open source.  <br>🌱 I’m currently learning C, DSA, and web development basics.  <br>💬 Ask me about hackathon experiences, or getting started in coding.  <br>⚡ Fun fact: I love playing chess and can spend hours reading manga!  <br>
 
 
 ## 🌐 Socials:
